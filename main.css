@@ -6,3 +6,8 @@
 #instructions {
   font-style: italic;
 }
+
+#bookmarksDiv {
+  position:relative;
+  z-index: 1;
+}
